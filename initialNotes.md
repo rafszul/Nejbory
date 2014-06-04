@@ -20,6 +20,12 @@ Responsive
 
 R2 (?)
 
+##plugins list
+
+[multisite-cloner](https://wordpress.org/plugins/multisite-cloner/)
+
+
+
 ##basic network set up
 
 - check out the specs for mu
